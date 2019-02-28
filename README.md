@@ -1,1 +1,4 @@
-THis is a test file
+database: Account
+table: users
+users: uname
+password: pwd
